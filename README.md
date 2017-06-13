@@ -3,6 +3,12 @@ Responsive Website - Headstart 011
 
 Partially based on 'Design and develop a killer website with html5 and css3' at https://www.udemy.com/design-and-develop-a-killer-website-with-html5-and-css3/learn/v4/t/lecture/2619782?start=0
 
+=====
+
+My contribution is that I have made the whole site use Angular, its component based structure, as well as splitting the CSS up into SCSS modules which are transformed by webpack. In sum, a more manageable solution with ease of expansion. It is meant for demonstration purposes only.
+
+=====
+
 This repository covers the tutorial all the way up to and including 'Optimizations & Favicon'.
 
 https://www.udemy.com/design-and-develop-a-killer-website-with-html5-and-css3/learn/v4/t/lecture/2620100?start=0
