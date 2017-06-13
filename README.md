@@ -67,8 +67,6 @@ site/
 
 site/app1/src/
 
-
-
 ### site/public directory
 
 site/public/app1/
@@ -116,7 +114,6 @@ To run the ***production*** build command type:
 ```javascript
 npm run prod
 ```
-
 
 ### Global Installation
 
